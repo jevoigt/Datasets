@@ -1,0 +1,7 @@
+name,measurement,value
+Jake,n_dogs,1
+Jake,n_cats,0
+Jake,n_birds,1
+Alice,n_dogs,1
+Alice,n_cats,2
+Alice,n_birds,0
